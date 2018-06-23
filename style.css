@@ -1,0 +1,12 @@
+#img{
+    height:30px;
+    width: 30px;
+    border-radius: 10px;
+    
+}
+#main{
+    background-color: black;
+}
+body{
+   background-color: aqua;
+}
